@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nadya-wyn
 - 👀 I’m interested in QA Automation 
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on QA Automation
 - 📫 How to reach me nadya.wyn@gmail.com
 
